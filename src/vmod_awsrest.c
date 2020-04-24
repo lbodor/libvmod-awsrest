@@ -22,6 +22,9 @@
 #include <time.h>
 #include <string.h>
 #include <stdio.h>
+
+typedef _Bool bool;
+
 #include <mhash.h>
 
 int
